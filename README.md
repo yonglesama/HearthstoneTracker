@@ -124,21 +124,6 @@ HearthstoneTracker 是一个用于查询《炉石传说》酒馆战棋公开排�
 
 ---
 
-## macOS 用户
-
-Windows 版本：
-
-`HearthstoneTracker.exe`
-
-不能直接在 MacBook 上运行。
-
-macOS 需要单独的：
-
-`HearthstoneTracker.app`
-
-版本。
-
----
 
 ## 数据说明
 
